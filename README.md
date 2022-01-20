@@ -1,7 +1,13 @@
-### Hi there 👋
+Coordenadora dos Cursos de Computação da USCS  
+
+- 🔭 I’m currently working on my PHD Thesis
+- 💬 Ask me about programming 
+
 
 <!--
 **cmainente/cmainente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
